@@ -1,0 +1,22 @@
+centralizado:
+  folder_raw: 'data/raw/centralizado/'
+  folder_raw_aprobados: 'data/raw/centralizado/aprobados/'
+  folder_raw_rechazados: 'data/raw/centralizado/rechazados/'
+  folder_raw_piloto: 'data/raw/centralizado/piloto/'
+  folder_raw_externos: 'data/raw/centralizado/externos/'
+  folder_raw_piloto: 'data/raw/centralizado/piloto/'
+  folder_processed: 'data/staging/centralizado/'
+  folder_final: 'data/final/centralizado/'
+  folder_reports: 'reports/centralizado/'
+  modelo: 'models/centralizado/seleccionados/icy-sweep-102.joblib'
+  trh_model: 0.6747
+  trh_riesgo_score: 350
+  trh_distance_gower: 0.2679589
+
+folder_reports: 'reports/'
+folder_models: 'models/'
+raw: 'data/raw/'
+processed: 'data/staging/'
+enrichment: 'data/enrichment/'
+final: 'data/final/'
+
